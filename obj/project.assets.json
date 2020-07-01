@@ -1149,11 +1149,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\madsd\\OneDrive\\Dokumenter\\web\\DatingApp.API\\DatingApp.API.csproj",
+      "projectUniqueName": "C:\\Users\\madsd\\OneDrive\\Dokumenter\\web\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
       "projectName": "DatingApp.API",
-      "projectPath": "C:\\Users\\madsd\\OneDrive\\Dokumenter\\web\\DatingApp.API\\DatingApp.API.csproj",
+      "projectPath": "C:\\Users\\madsd\\OneDrive\\Dokumenter\\web\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
       "packagesPath": "C:\\Users\\madsd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\madsd\\OneDrive\\Dokumenter\\web\\DatingApp.API\\obj\\",
+      "outputPath": "C:\\Users\\madsd\\OneDrive\\Dokumenter\\web\\DatingApp\\DatingApp.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
